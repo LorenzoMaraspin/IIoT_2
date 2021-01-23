@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "ITS.Maraspin.Fridge.ServiceBus.ManageAlert": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

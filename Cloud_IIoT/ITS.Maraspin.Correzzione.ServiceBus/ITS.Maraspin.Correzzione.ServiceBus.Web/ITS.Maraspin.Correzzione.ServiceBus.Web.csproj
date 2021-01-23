@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>388793b5-408f-4876-adf6-a2bcbae8f3cd</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ITS.Maraspin.Correzzione.ServiceBus.Application\ITS.Maraspin.Correzzione.ServiceBus.Application.csproj" />
+    <ProjectReference Include="..\ITS.Maraspin.Correzzione.ServiceBus.Data\ITS.Maraspin.Correzzione.ServiceBus.Data.csproj" />
+  </ItemGroup>
+
+
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\lmara\source\repos\C#\ITS.Maraspin.Fridge.ServiceBus\ITS.Maraspin.Fridge.ServiceBus.Service\bin\Debug\netcoreapp3.1\ITS.Maraspin.Fridge.ServiceBus.Service.deps.json
+C:\Users\lmara\source\repos\C#\ITS.Maraspin.Fridge.ServiceBus\ITS.Maraspin.Fridge.ServiceBus.Service\bin\Debug\netcoreapp3.1\ITS.Maraspin.Fridge.ServiceBus.Service.dll
+C:\Users\lmara\source\repos\C#\ITS.Maraspin.Fridge.ServiceBus\ITS.Maraspin.Fridge.ServiceBus.Service\bin\Debug\netcoreapp3.1\ITS.Maraspin.Fridge.ServiceBus.Service.pdb
+C:\Users\lmara\source\repos\C#\ITS.Maraspin.Fridge.ServiceBus\ITS.Maraspin.Fridge.ServiceBus.Service\obj\Debug\netcoreapp3.1\ITS.Maraspin.Fridge.ServiceBus.Service.csprojAssemblyReference.cache
+C:\Users\lmara\source\repos\C#\ITS.Maraspin.Fridge.ServiceBus\ITS.Maraspin.Fridge.ServiceBus.Service\obj\Debug\netcoreapp3.1\ITS.Maraspin.Fridge.ServiceBus.Service.AssemblyInfoInputs.cache
+C:\Users\lmara\source\repos\C#\ITS.Maraspin.Fridge.ServiceBus\ITS.Maraspin.Fridge.ServiceBus.Service\obj\Debug\netcoreapp3.1\ITS.Maraspin.Fridge.ServiceBus.Service.AssemblyInfo.cs
+C:\Users\lmara\source\repos\C#\ITS.Maraspin.Fridge.ServiceBus\ITS.Maraspin.Fridge.ServiceBus.Service\obj\Debug\netcoreapp3.1\ITS.Maraspin.Fridge.ServiceBus.Service.csproj.CoreCompileInputs.cache
+C:\Users\lmara\source\repos\C#\ITS.Maraspin.Fridge.ServiceBus\ITS.Maraspin.Fridge.ServiceBus.Service\obj\Debug\netcoreapp3.1\ITS.Maraspin.Fridge.ServiceBus.Service.dll
+C:\Users\lmara\source\repos\C#\ITS.Maraspin.Fridge.ServiceBus\ITS.Maraspin.Fridge.ServiceBus.Service\obj\Debug\netcoreapp3.1\ITS.Maraspin.Fridge.ServiceBus.Service.pdb
+C:\Users\lmara\source\repos\C#\ITS.Maraspin.Fridge.ServiceBus\ITS.Maraspin.Fridge.ServiceBus.Service\bin\Debug\netcoreapp3.1\ITS.Maraspin.Fridge.ServiceBus.Data.dll
+C:\Users\lmara\source\repos\C#\ITS.Maraspin.Fridge.ServiceBus\ITS.Maraspin.Fridge.ServiceBus.Service\bin\Debug\netcoreapp3.1\ITS.Maraspin.Fridge.ServiceBus.Model.dll
+C:\Users\lmara\source\repos\C#\ITS.Maraspin.Fridge.ServiceBus\ITS.Maraspin.Fridge.ServiceBus.Service\bin\Debug\netcoreapp3.1\ITS.Maraspin.Fridge.ServiceBus.Data.pdb
+C:\Users\lmara\source\repos\C#\ITS.Maraspin.Fridge.ServiceBus\ITS.Maraspin.Fridge.ServiceBus.Service\bin\Debug\netcoreapp3.1\ITS.Maraspin.Fridge.ServiceBus.Model.pdb
+C:\Users\lmara\source\repos\C#\ITS.Maraspin.Fridge.ServiceBus\ITS.Maraspin.Fridge.ServiceBus.Service\obj\Debug\netcoreapp3.1\ITS.Maraspin.Fridge.ServiceBus.Service.csproj.CopyComplete

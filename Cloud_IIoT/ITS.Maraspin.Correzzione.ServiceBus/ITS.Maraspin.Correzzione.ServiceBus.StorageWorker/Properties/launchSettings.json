@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "ITS.Maraspin.Correzzione.ServiceBus.StorageWorker": {
+      "commandName": "Project",
+      "dotnetRunMessages": "true",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

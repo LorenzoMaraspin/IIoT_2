@@ -1,0 +1,9 @@
+C:\Users\lmara\source\repos\C#\ITS.Maraspin.Fridge.ServiceBus\ITS.Maraspin.Fridge.ServiceBus.Data\bin\Debug\netstandard2.0\ITS.Maraspin.Fridge.ServiceBus.Data.deps.json
+C:\Users\lmara\source\repos\C#\ITS.Maraspin.Fridge.ServiceBus\ITS.Maraspin.Fridge.ServiceBus.Data\bin\Debug\netstandard2.0\ITS.Maraspin.Fridge.ServiceBus.Data.dll
+C:\Users\lmara\source\repos\C#\ITS.Maraspin.Fridge.ServiceBus\ITS.Maraspin.Fridge.ServiceBus.Data\bin\Debug\netstandard2.0\ITS.Maraspin.Fridge.ServiceBus.Data.pdb
+C:\Users\lmara\source\repos\C#\ITS.Maraspin.Fridge.ServiceBus\ITS.Maraspin.Fridge.ServiceBus.Data\obj\Debug\netstandard2.0\ITS.Maraspin.Fridge.ServiceBus.Data.csprojAssemblyReference.cache
+C:\Users\lmara\source\repos\C#\ITS.Maraspin.Fridge.ServiceBus\ITS.Maraspin.Fridge.ServiceBus.Data\obj\Debug\netstandard2.0\ITS.Maraspin.Fridge.ServiceBus.Data.AssemblyInfoInputs.cache
+C:\Users\lmara\source\repos\C#\ITS.Maraspin.Fridge.ServiceBus\ITS.Maraspin.Fridge.ServiceBus.Data\obj\Debug\netstandard2.0\ITS.Maraspin.Fridge.ServiceBus.Data.AssemblyInfo.cs
+C:\Users\lmara\source\repos\C#\ITS.Maraspin.Fridge.ServiceBus\ITS.Maraspin.Fridge.ServiceBus.Data\obj\Debug\netstandard2.0\ITS.Maraspin.Fridge.ServiceBus.Data.csproj.CoreCompileInputs.cache
+C:\Users\lmara\source\repos\C#\ITS.Maraspin.Fridge.ServiceBus\ITS.Maraspin.Fridge.ServiceBus.Data\obj\Debug\netstandard2.0\ITS.Maraspin.Fridge.ServiceBus.Data.dll
+C:\Users\lmara\source\repos\C#\ITS.Maraspin.Fridge.ServiceBus\ITS.Maraspin.Fridge.ServiceBus.Data\obj\Debug\netstandard2.0\ITS.Maraspin.Fridge.ServiceBus.Data.pdb

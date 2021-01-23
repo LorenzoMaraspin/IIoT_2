@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "oTJJdjVuLbAMPfPShkHNUL67DDdMvTP8RaXBL/sCCLyJsTOY2L1JiEp0/cuIrlvg/bDZJRcL6DNutLoI3cCNtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lmara\\source\\repos\\C#\\ITS.Maraspin.gRPC\\ITS.Maraspin.gRPC.Application\\ITS.Maraspin.gRPC.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lmara\\.nuget\\packages\\grpc.core.api\\2.34.0\\grpc.core.api.2.34.0.nupkg.sha512",
+    "C:\\Users\\lmara\\.nuget\\packages\\grpc.net.client\\2.34.0\\grpc.net.client.2.34.0.nupkg.sha512",
+    "C:\\Users\\lmara\\.nuget\\packages\\grpc.net.common\\2.34.0\\grpc.net.common.2.34.0.nupkg.sha512",
+    "C:\\Users\\lmara\\.nuget\\packages\\grpc.tools\\2.34.1\\grpc.tools.2.34.1.nupkg.sha512",
+    "C:\\Users\\lmara\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\lmara\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\lmara\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\5.0.0\\microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\lmara\\.nuget\\packages\\microsoft.extensions.configuration.json\\5.0.0\\microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\lmara\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\5.0.0\\microsoft.extensions.configuration.usersecrets.5.0.0.nupkg.sha512",
+    "C:\\Users\\lmara\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\lmara\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\lmara\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\lmara\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\lmara\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\lmara\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "C:\\Users\\lmara\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\lmara\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

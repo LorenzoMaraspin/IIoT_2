@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>dotnet-ITS.Maraspin.Correzzione.ServiceBus.StorageWorker-D655EB9A-3D6E-469D-8E90-399F3465A1FD</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ITS.Maraspin.Correzzione.ServiceBus.Application\ITS.Maraspin.Correzzione.ServiceBus.Application.csproj" />
+    <ProjectReference Include="..\ITS.Maraspin.Correzzione.ServiceBus.Data\ITS.Maraspin.Correzzione.ServiceBus.Data.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ITS.Maraspin.Fridge.ServiceBus.Model\ITS.Maraspin.Fridge.ServiceBus.Model.csproj" />
+    <ProjectReference Include="..\ITS.Maraspin.Fridge.ServiceBus.Service\ITS.Maraspin.Fridge.ServiceBus.Service.csproj" />
+  </ItemGroup>
+
+
+</Project>

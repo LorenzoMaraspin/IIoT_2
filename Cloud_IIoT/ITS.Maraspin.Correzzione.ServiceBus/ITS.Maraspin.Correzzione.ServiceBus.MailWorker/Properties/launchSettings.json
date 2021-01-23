@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "ITS.Maraspin.Correzzione.ServiceBus.MailWorker": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
