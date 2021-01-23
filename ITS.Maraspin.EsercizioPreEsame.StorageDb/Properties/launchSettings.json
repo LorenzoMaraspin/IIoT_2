@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "ITS.Maraspin.EsercizioPreEsame.StorageDb": {
+      "commandName": "Project",
+      "dotnetRunMessages": "true",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
