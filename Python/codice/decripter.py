@@ -18,6 +18,7 @@ statistica_lettere = {}
 WORDS = []
 
 #-----------------------------------------------------------------------------------------------
+#CON QUESTA FUNZIONE VADO A CREARE UNA LISTA CHE CONTIENE TUTTI I CARATTERI UTILIZZATI PER SCRIVERE IL MESSAGGIO CODIFICATO
 def setAlfabetoDecifrato():
     for i in Alfabeto_criptato:
         posizione = Alfabeto_criptato.index(i) + 1
@@ -28,6 +29,9 @@ def setAlfabetoDecifrato():
         else:
             Alfabeto_decriptato.append(value)
 #-----------------------------------------------------------------------------------------------
+#1)CON QUESTA FUNZIONE VADO A CONFRONTARE OGNI SINGOLO CARATTERE DEL MESSAGGIO CODIFICATO CON LA LISTA DI CHAR CREATA CON LA FUNZIONE "setAlfabetoDecifrato"
+#2)OGNI VOLTA CHE TROVA UN CARATTERE CHE è UGUALE TRA LA LISTA E IL MESSAGGIO PRENDO LA POSIZIONE DEL CARATTERE NELLA LISTA E VADO A SALVARMI IN UN ALTRA STRINGA
+#3)IL MESSAGGIO DECODIFICATO UTILIZZANDO LA LISTA ALFABETO LATINO CON LA POSIZIONE SALVATA NELLO STEP PRECEDENTE
 def comparaTraAlfabeti():
     for i in stringa_codificata:
         if(i == "J"):
